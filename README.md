@@ -57,7 +57,7 @@ We envision a future where critical events, corporate milestones, academic achie
 
 ## Contract Address
 
-**Testnet Deployment**: `ST2EV4JDJQKWQV13H0VVHG66ABCTR1P8YR596CHR6.blockchain-calender-contract`
+**Testnet Deployment**: `STGPBEW1DRVNA80A863AYGPGNJ91SYNBYKTZK0QB.blockchain-calender`
 
 ### Contract Functions
 
